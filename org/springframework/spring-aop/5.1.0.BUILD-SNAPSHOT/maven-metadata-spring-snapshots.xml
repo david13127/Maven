@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.springframework</groupId>
+  <artifactId>spring-aop</artifactId>
+  <version>5.1.0.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180810.124341</timestamp>
+      <buildNumber>362</buildNumber>
+    </snapshot>
+    <lastUpdated>20180810130403</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <classifier>javadoc</classifier>
+        <extension>jar</extension>
+        <value>5.1.0.BUILD-20180810.124341-362</value>
+        <updated>20180810124341</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>5.1.0.BUILD-20180810.124341-362</value>
+        <updated>20180810124341</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>5.1.0.BUILD-20180810.124341-362</value>
+        <updated>20180810124341</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>5.1.0.BUILD-20180810.124341-362</value>
+        <updated>20180810124341</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
