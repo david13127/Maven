@@ -1,7 +1,8 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Jan 06 13:46:44 GMT+08:00 2018
+#Mon Dec 31 11:00:39 GMT+08:00 2018
 https\://repo.spring.io/snapshot/.error=
 https\://repo.spring.io/milestone/.error=
 https\://repo.maven.apache.org/maven2/.lastUpdated=1515217604875
-https\://repo.spring.io/milestone/.lastUpdated=1515216163191
+https\://repo.spring.io/milestone/.lastUpdated=1546225225561
 https\://repo.spring.io/snapshot/.lastUpdated=1515216143757
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1546225239260

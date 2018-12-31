@@ -1,4 +1,6 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Jan 06 13:48:47 GMT+08:00 2018
+#Mon Dec 31 11:00:53 GMT+08:00 2018
 snappy-0.4.jar>central=
 snappy-0.4.pom>central=
+snappy-0.4.jar>alimaven=
+snappy-0.4.pom>alimaven=
