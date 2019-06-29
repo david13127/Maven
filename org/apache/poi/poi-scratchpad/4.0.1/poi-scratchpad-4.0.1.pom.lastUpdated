@@ -1,7 +1,8 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 21:10:28 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:31:45 GMT+08:00 2019
 https\://github.com/psiegman/mvn-repo/raw/master/releases/.lastUpdated=1546261827456
 https\://github.com/psiegman/mvn-repo/raw/master/releases/.error=
 https\://repo.spring.io/milestone/.error=
 https\://repo.spring.io/milestone/.lastUpdated=1546261826404
+http\://central.maven.org/maven2/.lastUpdated=1546770705511
 http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1546261828209

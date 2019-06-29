@@ -1,4 +1,5 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:42 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:32:34 GMT+08:00 2019
+maven-plugins-31.pom>mirrorId=
 maven-plugins-31.pom>central=
 maven-plugins-31.pom>alimaven=

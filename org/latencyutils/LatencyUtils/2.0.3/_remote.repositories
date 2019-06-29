@@ -1,6 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:37 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:29:50 GMT+08:00 2019
 LatencyUtils-2.0.3.pom>central=
 LatencyUtils-2.0.3.jar>alimaven=
+LatencyUtils-2.0.3-sources.jar>alimaven=
 LatencyUtils-2.0.3.pom>alimaven=
+LatencyUtils-2.0.3.jar>mirrorId=
+LatencyUtils-2.0.3.pom>mirrorId=
 LatencyUtils-2.0.3.jar>central=

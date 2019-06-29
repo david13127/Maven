@@ -1,6 +1,14 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Dec 28 22:46:12 GMT+08:00 2018
-https\://repo.spring.io/milestone/.error=
-https\://repo.maven.apache.org/maven2/.lastUpdated=1546008372428
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 20:25:09 GMT+08:00 2019
+https\://repo.spring.io/snapshot/.error=
+http\://central.maven.org/maven2/.lastUpdated=1546770763929
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1546614617182
+https\://repo.spring.io/snapshot/.lastUpdated=1546777509642
 https\://repo.spring.io/milestone/.lastUpdated=1546008370524
+https\://github.com/psiegman/mvn-repo/raw/master/releases/.lastUpdated=1546614617047
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1546008372428
+https\://repo.spring.io/milestone/.error=
+https\://github.com/psiegman/mvn-repo/raw/master/releases/.error=
 https\://repo.maven.apache.org/maven2/.error=
+http\://central.maven.org/maven2/.error=

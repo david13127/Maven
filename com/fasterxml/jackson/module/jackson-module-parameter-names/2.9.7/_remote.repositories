@@ -1,6 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:41 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:30:49 GMT+08:00 2019
 jackson-module-parameter-names-2.9.7.jar>alimaven=
-jackson-module-parameter-names-2.9.7.jar>central=
 jackson-module-parameter-names-2.9.7.pom>alimaven=
+jackson-module-parameter-names-2.9.7.jar>central=
+jackson-module-parameter-names-2.9.7.jar>mirrorId=
 jackson-module-parameter-names-2.9.7.pom>central=
+jackson-module-parameter-names-2.9.7-sources.jar>alimaven=
+jackson-module-parameter-names-2.9.7.pom>mirrorId=

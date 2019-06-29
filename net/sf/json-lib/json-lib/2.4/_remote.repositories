@@ -1,6 +1,8 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:39 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:30:58 GMT+08:00 2019
 json-lib-2.4-jdk15.jar>alimaven=
 json-lib-2.4-jdk15.jar>central=
 json-lib-2.4.pom>alimaven=
+json-lib-2.4-jdk15.jar>mirrorId=
+json-lib-2.4.pom>mirrorId=
 json-lib-2.4.pom>central=

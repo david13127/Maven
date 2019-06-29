@@ -1,6 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:39 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:29:53 GMT+08:00 2019
 android-json-0.0.20131108.vaadin1.jar>central=
-android-json-0.0.20131108.vaadin1.jar>alimaven=
 android-json-0.0.20131108.vaadin1.pom>central=
+android-json-0.0.20131108.vaadin1.jar>alimaven=
+android-json-0.0.20131108.vaadin1.jar>mirrorId=
 android-json-0.0.20131108.vaadin1.pom>alimaven=
+android-json-0.0.20131108.vaadin1-sources.jar>alimaven=
+android-json-0.0.20131108.vaadin1.pom>mirrorId=

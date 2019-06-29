@@ -1,7 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Jan 06 13:47:32 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:50:46 GMT+08:00 2019
 https\://repo.spring.io/snapshot/.error=
 https\://repo.spring.io/milestone/.error=
 https\://repo.maven.apache.org/maven2/.lastUpdated=1515217652774
 https\://repo.spring.io/milestone/.lastUpdated=1515217652064
 https\://repo.spring.io/snapshot/.lastUpdated=1515217651595
+http\://central.maven.org/maven2/.lastUpdated=1546771846333
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1546433814106

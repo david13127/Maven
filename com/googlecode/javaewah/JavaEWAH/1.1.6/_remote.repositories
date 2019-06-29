@@ -1,6 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:38 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:29:50 GMT+08:00 2019
 JavaEWAH-1.1.6.jar>alimaven=
-JavaEWAH-1.1.6.jar>central=
+JavaEWAH-1.1.6.jar>mirrorId=
 JavaEWAH-1.1.6.pom>alimaven=
+JavaEWAH-1.1.6.jar>central=
+JavaEWAH-1.1.6-sources.jar>alimaven=
+JavaEWAH-1.1.6.pom>mirrorId=
 JavaEWAH-1.1.6.pom>central=

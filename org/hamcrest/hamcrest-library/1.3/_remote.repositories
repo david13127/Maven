@@ -1,6 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:39 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:29:53 GMT+08:00 2019
+hamcrest-library-1.3.pom>mirrorId=
 hamcrest-library-1.3.jar>central=
 hamcrest-library-1.3.pom>central=
+hamcrest-library-1.3-sources.jar>alimaven=
 hamcrest-library-1.3.jar>alimaven=
 hamcrest-library-1.3.pom>alimaven=
+hamcrest-library-1.3.jar>mirrorId=

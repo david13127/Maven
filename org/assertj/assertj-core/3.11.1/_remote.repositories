@@ -1,6 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:38 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:29:52 GMT+08:00 2019
 assertj-core-3.11.1.pom>central=
-assertj-core-3.11.1.jar>alimaven=
+assertj-core-3.11.1.jar>mirrorId=
+assertj-core-3.11.1.pom>mirrorId=
 assertj-core-3.11.1.jar>central=
+assertj-core-3.11.1.jar>alimaven=
+assertj-core-3.11.1-sources.jar>alimaven=
 assertj-core-3.11.1.pom>alimaven=

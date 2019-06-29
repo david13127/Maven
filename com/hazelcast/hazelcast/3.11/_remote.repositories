@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 20:25:03 GMT+08:00 2019
+hazelcast-3.11.jar>alimaven=
+hazelcast-3.11.pom>alimaven=
+hazelcast-3.11.jar>mirrorId=
+hazelcast-3.11.pom>mirrorId=
+hazelcast-3.11-sources.jar>alimaven=

@@ -1,4 +1,8 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 15:20:03 GMT+08:00 2018
+#Sun May 12 09:44:11 CST 2019
 jackson-dataformat-smile-2.9.7.pom>alimaven=
+jackson-dataformat-smile-2.9.7-sources.jar>alimaven=
+jackson-dataformat-smile-2.9.7.jar>mirrorId=
+jackson-dataformat-smile-2.9.7.pom>mirrorId=
+jackson-dataformat-smile-2.9.7.pom>central=
 jackson-dataformat-smile-2.9.7.jar>alimaven=

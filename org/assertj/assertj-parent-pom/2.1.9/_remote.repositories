@@ -1,3 +1,5 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Aug 10 21:29:15 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:30:18 GMT+08:00 2019
+assertj-parent-pom-2.1.9.pom>mirrorId=
 assertj-parent-pom-2.1.9.pom>central=
+assertj-parent-pom-2.1.9.pom>alimaven=

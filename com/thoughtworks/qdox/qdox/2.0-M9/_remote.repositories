@@ -1,6 +1,8 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 10:59:13 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:26:12 GMT+08:00 2019
 qdox-2.0-M9.jar>central=
+qdox-2.0-M9.jar>mirrorId=
 qdox-2.0-M9.pom>central=
+qdox-2.0-M9.pom>mirrorId=
 qdox-2.0-M9.jar>alimaven=
 qdox-2.0-M9.pom>alimaven=

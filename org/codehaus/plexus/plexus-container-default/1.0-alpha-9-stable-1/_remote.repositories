@@ -1,6 +1,8 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:12:42 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 21:00:48 GMT+08:00 2019
 plexus-container-default-1.0-alpha-9-stable-1.jar>central=
 plexus-container-default-1.0-alpha-9-stable-1.pom>central=
 plexus-container-default-1.0-alpha-9-stable-1.jar>alimaven=
 plexus-container-default-1.0-alpha-9-stable-1.pom>alimaven=
+plexus-container-default-1.0-alpha-9-stable-1.jar>mirrorId=
+plexus-container-default-1.0-alpha-9-stable-1.pom>mirrorId=

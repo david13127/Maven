@@ -1,6 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:36 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:32:29 GMT+08:00 2019
+reactor-core-3.2.2.RELEASE-sources.jar>alimaven=
 reactor-core-3.2.2.RELEASE.jar>alimaven=
+reactor-core-3.2.2.RELEASE.jar>mirrorId=
 reactor-core-3.2.2.RELEASE.pom>alimaven=
+reactor-core-3.2.2.RELEASE.pom>mirrorId=
 reactor-core-3.2.2.RELEASE.jar>central=
 reactor-core-3.2.2.RELEASE.pom>central=

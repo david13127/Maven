@@ -1,7 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:36 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:29:47 GMT+08:00 2019
 mongodb-driver-3.8.2.jar>alimaven=
 mongodb-driver-3.8.2.pom>central=
+mongodb-driver-3.8.2.jar>mirrorId=
 mongodb-driver-3.8.2.pom>alimaven=
+mongodb-driver-3.8.2.pom>mirrorId=
 mongodb-driver-3.8.2-sources.jar>central=
 mongodb-driver-3.8.2.jar>central=

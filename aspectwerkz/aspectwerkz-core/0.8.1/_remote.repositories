@@ -1,6 +1,8 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:41 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:32:31 GMT+08:00 2019
+aspectwerkz-core-0.8.1.pom>mirrorId=
 aspectwerkz-core-0.8.1.jar>central=
 aspectwerkz-core-0.8.1.pom>central=
 aspectwerkz-core-0.8.1.jar>alimaven=
 aspectwerkz-core-0.8.1.pom>alimaven=
+aspectwerkz-core-0.8.1.jar>mirrorId=

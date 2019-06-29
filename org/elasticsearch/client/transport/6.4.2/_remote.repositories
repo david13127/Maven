@@ -1,4 +1,8 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 15:20:03 GMT+08:00 2018
+#Sun May 12 09:43:50 CST 2019
+transport-6.4.2-sources.jar>alimaven=
 transport-6.4.2.jar>alimaven=
 transport-6.4.2.pom>alimaven=
+transport-6.4.2.jar>mirrorId=
+transport-6.4.2.pom>central=
+transport-6.4.2.pom>mirrorId=

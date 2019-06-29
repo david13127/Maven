@@ -1,4 +1,5 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 10:59:36 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:26:54 GMT+08:00 2019
 shrinkwrap-descriptors-bom-2.0.0-alpha-8.pom>alimaven=
+shrinkwrap-descriptors-bom-2.0.0-alpha-8.pom>mirrorId=
 shrinkwrap-descriptors-bom-2.0.0-alpha-8.pom>central=

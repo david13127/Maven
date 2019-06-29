@@ -1,6 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:41 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:30:49 GMT+08:00 2019
 jackson-datatype-jdk8-2.9.7.jar>central=
 jackson-datatype-jdk8-2.9.7.pom>central=
 jackson-datatype-jdk8-2.9.7.jar>alimaven=
+jackson-datatype-jdk8-2.9.7.jar>mirrorId=
 jackson-datatype-jdk8-2.9.7.pom>alimaven=
+jackson-datatype-jdk8-2.9.7.pom>mirrorId=
+jackson-datatype-jdk8-2.9.7-sources.jar>alimaven=

@@ -1,3 +1,5 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Jan 06 13:20:02 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:26:58 GMT+08:00 2019
+oss-parent-27.pom>mirrorId=
 oss-parent-27.pom>central=
+oss-parent-27.pom>alimaven=

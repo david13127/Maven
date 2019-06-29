@@ -1,4 +1,6 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:12:43 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jun 29 16:22:28 GMT+08:00 2019
 maven-reporting-api-3.0.jar>alimaven=
 maven-reporting-api-3.0.pom>alimaven=
+maven-reporting-api-3.0.jar>mirrorId=
+maven-reporting-api-3.0.pom>mirrorId=

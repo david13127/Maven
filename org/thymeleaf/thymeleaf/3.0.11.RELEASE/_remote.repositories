@@ -1,7 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:42 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:29:48 GMT+08:00 2019
+thymeleaf-3.0.11.RELEASE.pom>mirrorId=
 thymeleaf-3.0.11.RELEASE.jar>central=
 thymeleaf-3.0.11.RELEASE.pom>central=
 thymeleaf-3.0.11.RELEASE.jar>alimaven=
 thymeleaf-3.0.11.RELEASE-sources.jar>central=
 thymeleaf-3.0.11.RELEASE.pom>alimaven=
+thymeleaf-3.0.11.RELEASE.jar>mirrorId=

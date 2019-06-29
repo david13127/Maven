@@ -1,4 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Jan 06 12:53:46 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 21:00:30 GMT+08:00 2019
+standard-1.1.2.pom>alimaven=
+standard-1.1.2-sources.jar>alimaven=
+standard-1.1.2.jar>mirrorId=
 standard-1.1.2.jar>central=
+standard-1.1.2.pom>mirrorId=
 standard-1.1.2.pom>central=
+standard-1.1.2.jar>alimaven=

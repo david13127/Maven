@@ -1,4 +1,5 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 19:16:26 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 04 23:15:22 GMT+08:00 2019
+epublib-core-3.1-sources.jar>psiegman-repo=
 epublib-core-3.1.pom>psiegman-repo=
 epublib-core-3.1.jar>psiegman-repo=

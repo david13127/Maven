@@ -1,4 +1,8 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Jan 06 12:14:01 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 21:00:51 GMT+08:00 2019
+plexus-build-api-0.0.4.jar>alimaven=
+plexus-build-api-0.0.4.jar>mirrorId=
+plexus-build-api-0.0.4.pom>alimaven=
+plexus-build-api-0.0.4.pom>mirrorId=
 plexus-build-api-0.0.4.jar>central=
 plexus-build-api-0.0.4.pom>central=

@@ -1,4 +1,8 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Jan 06 13:48:48 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:50:49 GMT+08:00 2019
 xz-1.5.jar>central=
 xz-1.5.pom>central=
+xz-1.5.jar>alimaven=
+xz-1.5.pom>alimaven=
+xz-1.5.jar>mirrorId=
+xz-1.5.pom>mirrorId=

@@ -1,4 +1,7 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Dec 28 23:46:44 GMT+08:00 2018
-thymeleaf-extras-java8time-3.0.1.RELEASE.jar>central=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 20:25:19 GMT+08:00 2019
+thymeleaf-extras-java8time-3.0.1.RELEASE-sources.jar>mirrorId=
 thymeleaf-extras-java8time-3.0.1.RELEASE.pom>central=
+thymeleaf-extras-java8time-3.0.1.RELEASE.jar>central=
+thymeleaf-extras-java8time-3.0.1.RELEASE.jar>mirrorId=
+thymeleaf-extras-java8time-3.0.1.RELEASE.pom>mirrorId=

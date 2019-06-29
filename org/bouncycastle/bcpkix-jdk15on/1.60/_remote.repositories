@@ -1,6 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:37 GMT+08:00 2018
-bcpkix-jdk15on-1.60.jar>central=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:29:50 GMT+08:00 2019
+bcpkix-jdk15on-1.60.jar>mirrorId=
 bcpkix-jdk15on-1.60.pom>alimaven=
+bcpkix-jdk15on-1.60.jar>central=
+bcpkix-jdk15on-1.60.pom>mirrorId=
 bcpkix-jdk15on-1.60.pom>central=
+bcpkix-jdk15on-1.60-sources.jar>alimaven=
 bcpkix-jdk15on-1.60.jar>alimaven=

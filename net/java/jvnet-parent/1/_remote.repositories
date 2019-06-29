@@ -1,3 +1,5 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Jan 06 13:19:40 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:27:37 GMT+08:00 2019
 jvnet-parent-1.pom>central=
+jvnet-parent-1.pom>alimaven=
+jvnet-parent-1.pom>mirrorId=

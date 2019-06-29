@@ -1,6 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:36 GMT+08:00 2018
-lettuce-core-5.1.2.RELEASE.jar>alimaven=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:32:29 GMT+08:00 2019
 lettuce-core-5.1.2.RELEASE.pom>central=
+lettuce-core-5.1.2.RELEASE.jar>alimaven=
+lettuce-core-5.1.2.RELEASE.jar>mirrorId=
 lettuce-core-5.1.2.RELEASE.pom>alimaven=
+lettuce-core-5.1.2.RELEASE-sources.jar>alimaven=
+lettuce-core-5.1.2.RELEASE.pom>mirrorId=
 lettuce-core-5.1.2.RELEASE.jar>central=

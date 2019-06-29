@@ -1,5 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:48 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 19:04:21 GMT+08:00 2019
 commons-io-2.4.pom>central=
-commons-io-2.4.pom>alimaven=
+commons-io-2.4.jar>mirrorId=
+commons-io-2.4.pom>mirrorId=
+commons-io-2.4-sources.jar>alimaven=
+commons-io-2.4.jar>alimaven=
 commons-io-2.4.jar>central=
+commons-io-2.4.pom>alimaven=

@@ -1,6 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:38 GMT+08:00 2018
-mockito-core-2.23.0.jar>central=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:32:30 GMT+08:00 2019
 mockito-core-2.23.0.pom>central=
+mockito-core-2.23.0.jar>central=
 mockito-core-2.23.0.jar>alimaven=
 mockito-core-2.23.0.pom>alimaven=
+mockito-core-2.23.0.jar>mirrorId=
+mockito-core-2.23.0-sources.jar>alimaven=
+mockito-core-2.23.0.pom>mirrorId=

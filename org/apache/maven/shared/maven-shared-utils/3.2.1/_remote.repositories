@@ -1,6 +1,8 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 10:59:13 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:26:12 GMT+08:00 2019
 maven-shared-utils-3.2.1.jar>central=
 maven-shared-utils-3.2.1.pom>central=
 maven-shared-utils-3.2.1.jar>alimaven=
 maven-shared-utils-3.2.1.pom>alimaven=
+maven-shared-utils-3.2.1.jar>mirrorId=
+maven-shared-utils-3.2.1.pom>mirrorId=

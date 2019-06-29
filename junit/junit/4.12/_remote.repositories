@@ -1,6 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:38 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:29:53 GMT+08:00 2019
 junit-4.12.jar>alimaven=
+junit-4.12.jar>mirrorId=
 junit-4.12.pom>alimaven=
+junit-4.12-sources.jar>alimaven=
+junit-4.12.pom>mirrorId=
 junit-4.12.jar>central=
 junit-4.12.pom>central=

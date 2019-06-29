@@ -1,6 +1,8 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:53 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:33:04 GMT+08:00 2019
 snappy-0.4.jar>central=
 snappy-0.4.pom>central=
 snappy-0.4.jar>alimaven=
+snappy-0.4.jar>mirrorId=
 snappy-0.4.pom>alimaven=
+snappy-0.4.pom>mirrorId=

@@ -1,4 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Jan 06 13:46:43 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:30:57 GMT+08:00 2019
 activation-1.1.jar>central=
 activation-1.1.pom>central=
+activation-1.1-sources.jar>alimaven=
+activation-1.1.jar>alimaven=
+activation-1.1.jar>mirrorId=
+activation-1.1.pom>alimaven=
+activation-1.1.pom>mirrorId=

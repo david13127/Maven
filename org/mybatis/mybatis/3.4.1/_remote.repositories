@@ -1,4 +1,6 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Dec 28 22:21:26 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jun 29 21:41:17 GMT+08:00 2019
 mybatis-3.4.1.pom>central=
+mybatis-3.4.1.jar>mirrorId=
+mybatis-3.4.1.pom>mirrorId=
 mybatis-3.4.1.jar>central=

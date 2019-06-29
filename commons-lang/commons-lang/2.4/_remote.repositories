@@ -1,3 +1,5 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Dec 28 22:17:35 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jun 29 16:20:43 GMT+08:00 2019
+commons-lang-2.4.jar>mirrorId=
 commons-lang-2.4.pom>central=
+commons-lang-2.4.pom>mirrorId=

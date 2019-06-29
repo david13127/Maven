@@ -1,6 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:40 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:29:57 GMT+08:00 2019
 aspectjrt-1.9.2.jar>central=
 aspectjrt-1.9.2.pom>central=
+aspectjrt-1.9.2-sources.jar>alimaven=
 aspectjrt-1.9.2.jar>alimaven=
+aspectjrt-1.9.2.jar>mirrorId=
 aspectjrt-1.9.2.pom>alimaven=
+aspectjrt-1.9.2.pom>mirrorId=

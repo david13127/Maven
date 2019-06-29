@@ -1,6 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:39 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:29:53 GMT+08:00 2019
 objenesis-2.6.jar>central=
 objenesis-2.6.pom>central=
 objenesis-2.6.jar>alimaven=
+objenesis-2.6.jar>mirrorId=
 objenesis-2.6.pom>alimaven=
+objenesis-2.6.pom>mirrorId=
+objenesis-2.6-sources.jar>alimaven=

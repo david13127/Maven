@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.springframework.cloud</groupId>
+  <artifactId>spring-cloud-dependencies</artifactId>
+  <version>Greenwich.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190106.111033</timestamp>
+      <buildNumber>1266</buildNumber>
+    </snapshot>
+    <lastUpdated>20190106111034</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>Greenwich.BUILD-20190106.111033-1266</value>
+        <updated>20190106111033</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

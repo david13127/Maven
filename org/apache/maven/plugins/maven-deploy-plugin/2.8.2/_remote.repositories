@@ -1,4 +1,6 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 10:58:55 GMT+08:00 2018
-maven-deploy-plugin-2.8.2.jar>central=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jun 29 16:22:30 GMT+08:00 2019
 maven-deploy-plugin-2.8.2.jar>alimaven=
+maven-deploy-plugin-2.8.2.jar>mirrorId=
+maven-deploy-plugin-2.8.2.pom>mirrorId=
+maven-deploy-plugin-2.8.2.jar>central=

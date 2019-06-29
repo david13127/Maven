@@ -1,4 +1,6 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Jan 06 12:03:40 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 13:24:59 GMT+08:00 2019
 maven-archetype-webapp-1.0.pom>central=
 maven-archetype-webapp-1.0.jar>central=
+maven-archetype-webapp-1.0.jar>alimaven=
+maven-archetype-webapp-1.0.pom>alimaven=

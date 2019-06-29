@@ -1,4 +1,5 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 10:59:30 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:30:15 GMT+08:00 2019
+jackson-modules-java8-2.9.7.pom>mirrorId=
 jackson-modules-java8-2.9.7.pom>central=
 jackson-modules-java8-2.9.7.pom>alimaven=

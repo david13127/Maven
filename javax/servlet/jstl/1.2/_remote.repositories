@@ -1,4 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Jan 06 12:53:46 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:30:53 GMT+08:00 2019
 jstl-1.2.jar>central=
 jstl-1.2.pom>central=
+jstl-1.2-sources.jar>alimaven=
+jstl-1.2.jar>alimaven=
+jstl-1.2.jar>mirrorId=
+jstl-1.2.pom>alimaven=
+jstl-1.2.pom>mirrorId=

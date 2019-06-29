@@ -1,6 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:38 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:29:52 GMT+08:00 2019
 json-smart-2.3.jar>alimaven=
-json-smart-2.3.jar>central=
 json-smart-2.3.pom>alimaven=
+json-smart-2.3.jar>central=
+json-smart-2.3.jar>mirrorId=
 json-smart-2.3.pom>central=
+json-smart-2.3.pom>mirrorId=
+json-smart-2.3-sources.jar>alimaven=

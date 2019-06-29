@@ -1,4 +1,8 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Jan 06 12:14:01 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 21:00:51 GMT+08:00 2019
+maven-filtering-1.1.jar>alimaven=
+maven-filtering-1.1.pom>alimaven=
 maven-filtering-1.1.jar>central=
+maven-filtering-1.1.jar>mirrorId=
 maven-filtering-1.1.pom>central=
+maven-filtering-1.1.pom>mirrorId=

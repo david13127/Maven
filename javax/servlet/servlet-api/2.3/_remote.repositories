@@ -1,3 +1,5 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Dec 28 22:17:49 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 20:59:45 GMT+08:00 2019
+servlet-api-2.3.pom>alimaven=
+servlet-api-2.3.pom>mirrorId=
 servlet-api-2.3.pom>central=

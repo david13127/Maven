@@ -1,5 +1,7 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:12:43 GMT+08:00 2018
-jcl-over-slf4j-1.5.6.jar>alimaven=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jun 29 16:22:28 GMT+08:00 2019
 jcl-over-slf4j-1.5.6.pom>alimaven=
 jcl-over-slf4j-1.5.6.pom>central=
+jcl-over-slf4j-1.5.6.jar>mirrorId=
+jcl-over-slf4j-1.5.6.pom>mirrorId=
+jcl-over-slf4j-1.5.6.jar>alimaven=

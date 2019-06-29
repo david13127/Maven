@@ -1,4 +1,6 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Tue Dec 18 22:22:30 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 17:28:08 GMT+08:00 2019
+maven-archetype-profiles-1.0-alpha-4.jar>alimaven=
+maven-archetype-profiles-1.0-alpha-4.pom>alimaven=
 maven-archetype-profiles-1.0-alpha-4.jar>central=
 maven-archetype-profiles-1.0-alpha-4.pom>central=

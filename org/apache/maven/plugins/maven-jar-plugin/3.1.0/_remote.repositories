@@ -1,6 +1,8 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:42 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:32:34 GMT+08:00 2019
 maven-jar-plugin-3.1.0.jar>central=
 maven-jar-plugin-3.1.0.pom>central=
 maven-jar-plugin-3.1.0.jar>alimaven=
 maven-jar-plugin-3.1.0.pom>alimaven=
+maven-jar-plugin-3.1.0.jar>mirrorId=
+maven-jar-plugin-3.1.0.pom>mirrorId=

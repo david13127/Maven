@@ -1,6 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:42 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:32:32 GMT+08:00 2019
 xercesImpl-2.11.0.jar>central=
-xercesImpl-2.11.0.jar>alimaven=
 xercesImpl-2.11.0.pom>central=
+xercesImpl-2.11.0.jar>alimaven=
+xercesImpl-2.11.0.jar>mirrorId=
 xercesImpl-2.11.0.pom>alimaven=
+xercesImpl-2.11.0.pom>mirrorId=
+xercesImpl-2.11.0-sources.jar>alimaven=

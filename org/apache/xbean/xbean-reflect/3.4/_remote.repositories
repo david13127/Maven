@@ -1,4 +1,8 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Jan 06 12:12:21 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 20:59:40 GMT+08:00 2019
+xbean-reflect-3.4.jar>alimaven=
+xbean-reflect-3.4.jar>mirrorId=
+xbean-reflect-3.4.pom>alimaven=
 xbean-reflect-3.4.jar>central=
 xbean-reflect-3.4.pom>central=
+xbean-reflect-3.4.pom>mirrorId=

@@ -1,4 +1,6 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Dec 28 22:19:54 GMT+08:00 2018
-velocity-1.7.jar>central=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jun 29 16:29:16 GMT+08:00 2019
+velocity-1.7.pom>mirrorId=
 velocity-1.7.pom>central=
+velocity-1.7.jar>central=
+velocity-1.7.jar>mirrorId=

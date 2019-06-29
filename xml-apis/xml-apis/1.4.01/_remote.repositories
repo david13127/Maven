@@ -1,6 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:42 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:32:32 GMT+08:00 2019
+xml-apis-1.4.01.jar>mirrorId=
 xml-apis-1.4.01.pom>alimaven=
+xml-apis-1.4.01.pom>mirrorId=
 xml-apis-1.4.01.jar>central=
 xml-apis-1.4.01.pom>central=
+xml-apis-1.4.01-sources.jar>alimaven=
 xml-apis-1.4.01.jar>alimaven=

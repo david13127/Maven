@@ -1,4 +1,5 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:51 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:32:55 GMT+08:00 2019
 surefire-2.22.1.pom>alimaven=
+surefire-2.22.1.pom>mirrorId=
 surefire-2.22.1.pom>central=

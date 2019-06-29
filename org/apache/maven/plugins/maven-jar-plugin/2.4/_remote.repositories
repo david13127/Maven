@@ -1,4 +1,6 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Jan 06 12:24:29 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 13:21:30 GMT+08:00 2019
 maven-jar-plugin-2.4.jar>central=
+maven-jar-plugin-2.4.jar>alimaven=
+maven-jar-plugin-2.4.pom>alimaven=
 maven-jar-plugin-2.4.pom>central=

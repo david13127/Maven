@@ -1,4 +1,8 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 15:20:03 GMT+08:00 2018
+#Sun May 12 09:43:59 CST 2019
+elasticsearch-secure-sm-6.4.2.pom>central=
 elasticsearch-secure-sm-6.4.2.jar>alimaven=
 elasticsearch-secure-sm-6.4.2.pom>alimaven=
+elasticsearch-secure-sm-6.4.2.jar>mirrorId=
+elasticsearch-secure-sm-6.4.2.pom>mirrorId=
+elasticsearch-secure-sm-6.4.2-sources.jar>alimaven=

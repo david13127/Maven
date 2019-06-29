@@ -1,6 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:37 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:29:50 GMT+08:00 2019
 bcprov-jdk15on-1.60.pom>central=
+bcprov-jdk15on-1.60-sources.jar>alimaven=
 bcprov-jdk15on-1.60.jar>alimaven=
 bcprov-jdk15on-1.60.pom>alimaven=
+bcprov-jdk15on-1.60.jar>mirrorId=
+bcprov-jdk15on-1.60.pom>mirrorId=
 bcprov-jdk15on-1.60.jar>central=

@@ -1,4 +1,7 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 21:18:38 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:32:32 GMT+08:00 2019
+xmlbeans-3.0.2-sources.jar>alimaven=
 xmlbeans-3.0.2.jar>alimaven=
+xmlbeans-3.0.2.jar>mirrorId=
 xmlbeans-3.0.2.pom>alimaven=
+xmlbeans-3.0.2.pom>mirrorId=

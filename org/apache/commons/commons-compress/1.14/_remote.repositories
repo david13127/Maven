@@ -1,6 +1,8 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:53 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 19:16:03 GMT+08:00 2019
 commons-compress-1.14.jar>central=
 commons-compress-1.14.pom>central=
 commons-compress-1.14.jar>alimaven=
+commons-compress-1.14.jar>mirrorId=
 commons-compress-1.14.pom>alimaven=
+commons-compress-1.14.pom>mirrorId=

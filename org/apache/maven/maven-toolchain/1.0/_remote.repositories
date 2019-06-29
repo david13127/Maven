@@ -1,4 +1,8 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Jan 06 12:12:20 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 20:59:40 GMT+08:00 2019
 maven-toolchain-1.0.jar>central=
 maven-toolchain-1.0.pom>central=
+maven-toolchain-1.0.jar>alimaven=
+maven-toolchain-1.0.pom>alimaven=
+maven-toolchain-1.0.jar>mirrorId=
+maven-toolchain-1.0.pom>mirrorId=

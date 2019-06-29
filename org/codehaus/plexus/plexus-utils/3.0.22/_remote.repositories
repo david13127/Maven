@@ -1,5 +1,6 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:22:44 GMT+08:00 2018
-plexus-utils-3.0.22-sources.jar>alimaven=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:26:01 GMT+08:00 2019
 plexus-utils-3.0.22.pom>alimaven=
+plexus-utils-3.0.22-sources.jar>alimaven=
+plexus-utils-3.0.22.pom>mirrorId=
 plexus-utils-3.0.22.pom>central=

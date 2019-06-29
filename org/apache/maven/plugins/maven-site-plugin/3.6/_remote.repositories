@@ -1,3 +1,5 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Jan 06 13:13:52 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:30:03 GMT+08:00 2019
+maven-site-plugin-3.6.jar>alimaven=
+maven-site-plugin-3.6.jar>mirrorId=
 maven-site-plugin-3.6.jar>central=

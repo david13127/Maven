@@ -1,4 +1,5 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 10:59:55 GMT+08:00 2018
-apache-4.pom>alimaven=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:27:18 GMT+08:00 2019
 apache-4.pom>central=
+apache-4.pom>alimaven=
+apache-4.pom>mirrorId=

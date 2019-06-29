@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.springframework.cloud</groupId>
+  <artifactId>spring-cloud-stream-dependencies</artifactId>
+  <version>Fishtown.BUILD-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190105.070220</timestamp>
+      <buildNumber>193</buildNumber>
+    </snapshot>
+    <lastUpdated>20190105070226</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>Fishtown.BUILD-20190105.070220-193</value>
+        <updated>20190105070220</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

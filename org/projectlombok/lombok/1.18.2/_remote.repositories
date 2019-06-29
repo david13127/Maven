@@ -1,4 +1,7 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sun Dec 30 13:45:32 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 20:25:31 GMT+08:00 2019
+lombok-1.18.2-sources.jar>mirrorId=
 lombok-1.18.2.jar>central=
 lombok-1.18.2.pom>central=
+lombok-1.18.2.jar>mirrorId=
+lombok-1.18.2.pom>mirrorId=

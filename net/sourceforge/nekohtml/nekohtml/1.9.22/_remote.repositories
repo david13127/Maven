@@ -1,6 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:42 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:32:32 GMT+08:00 2019
+nekohtml-1.9.22.pom>mirrorId=
+nekohtml-1.9.22-sources.jar>alimaven=
 nekohtml-1.9.22.jar>central=
-nekohtml-1.9.22.jar>alimaven=
 nekohtml-1.9.22.pom>central=
+nekohtml-1.9.22.jar>alimaven=
 nekohtml-1.9.22.pom>alimaven=
+nekohtml-1.9.22.jar>mirrorId=

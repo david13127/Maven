@@ -1,3 +1,5 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Jan 06 13:15:30 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:30:06 GMT+08:00 2019
+asm-parent-6.0_BETA.pom>alimaven=
 asm-parent-6.0_BETA.pom>central=
+asm-parent-6.0_BETA.pom>mirrorId=

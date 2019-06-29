@@ -1,4 +1,5 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 10:59:23 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:31:06 GMT+08:00 2019
 netty-parent-4.1.29.Final.pom>alimaven=
+netty-parent-4.1.29.Final.pom>mirrorId=
 netty-parent-4.1.29.Final.pom>central=

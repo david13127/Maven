@@ -1,6 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:13:29 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:29:57 GMT+08:00 2019
 aopalliance-1.0.pom>central=
+aopalliance-1.0-sources.jar>alimaven=
 aopalliance-1.0.jar>alimaven=
-aopalliance-1.0.jar>central=
+aopalliance-1.0.jar>mirrorId=
 aopalliance-1.0.pom>alimaven=
+aopalliance-1.0.jar>central=
+aopalliance-1.0.pom>mirrorId=

@@ -1,5 +1,7 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 18:01:02 GMT+08:00 2018
-commons-lang3-3.4.jar>alimaven=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jun 29 16:29:16 GMT+08:00 2019
+commons-lang3-3.4.jar>mirrorId=
+commons-lang3-3.4.pom>mirrorId=
 commons-lang3-3.4-sources.jar>alimaven=
+commons-lang3-3.4.jar>alimaven=
 commons-lang3-3.4.pom>alimaven=

@@ -1,4 +1,7 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 21:09:04 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:29:58 GMT+08:00 2019
 commons-collections4-4.1.pom>alimaven=
+commons-collections4-4.1.jar>mirrorId=
+commons-collections4-4.1.pom>mirrorId=
+commons-collections4-4.1-sources.jar>alimaven=
 commons-collections4-4.1.jar>alimaven=

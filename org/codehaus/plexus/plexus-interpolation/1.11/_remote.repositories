@@ -1,5 +1,7 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:12:43 GMT+08:00 2018
-plexus-interpolation-1.11.jar>alimaven=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jun 29 16:22:28 GMT+08:00 2019
 plexus-interpolation-1.11.pom>central=
+plexus-interpolation-1.11.jar>alimaven=
+plexus-interpolation-1.11.jar>mirrorId=
+plexus-interpolation-1.11.pom>mirrorId=
 plexus-interpolation-1.11.pom>alimaven=

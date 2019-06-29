@@ -1,3 +1,5 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Aug 10 21:28:46 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:26:58 GMT+08:00 2019
 jackson-bom-2.8.10.pom>central=
+jackson-bom-2.8.10.pom>mirrorId=
+jackson-bom-2.8.10.pom>alimaven=

@@ -1,4 +1,5 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 10:59:37 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:26:55 GMT+08:00 2019
 jboss-parent-15.pom>alimaven=
+jboss-parent-15.pom>mirrorId=
 jboss-parent-15.pom>central=

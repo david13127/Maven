@@ -1,6 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:41 GMT+08:00 2018
-tomcat-embed-core-9.0.12.jar>alimaven=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:32:31 GMT+08:00 2019
 tomcat-embed-core-9.0.12.jar>central=
+tomcat-embed-core-9.0.12.jar>alimaven=
 tomcat-embed-core-9.0.12.pom>alimaven=
 tomcat-embed-core-9.0.12.pom>central=
+tomcat-embed-core-9.0.12.jar>mirrorId=
+tomcat-embed-core-9.0.12-sources.jar>alimaven=
+tomcat-embed-core-9.0.12.pom>mirrorId=

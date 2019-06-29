@@ -1,6 +1,8 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 10:59:13 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:26:12 GMT+08:00 2019
 plexus-java-0.9.10.jar>alimaven=
 plexus-java-0.9.10.pom>alimaven=
+plexus-java-0.9.10.jar>mirrorId=
+plexus-java-0.9.10.pom>mirrorId=
 plexus-java-0.9.10.jar>central=
 plexus-java-0.9.10.pom>central=

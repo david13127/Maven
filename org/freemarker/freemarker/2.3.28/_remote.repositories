@@ -1,4 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sun Dec 30 11:06:35 GMT+08:00 2018
-freemarker-2.3.28.jar>central=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:29:59 GMT+08:00 2019
 freemarker-2.3.28.pom>central=
+freemarker-2.3.28.jar>central=
+freemarker-2.3.28.jar>alimaven=
+freemarker-2.3.28.pom>alimaven=
+freemarker-2.3.28.jar>mirrorId=
+freemarker-2.3.28-sources.jar>alimaven=
+freemarker-2.3.28.pom>mirrorId=

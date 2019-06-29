@@ -1,4 +1,5 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sun Dec 23 11:10:50 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 04 23:13:54 GMT+08:00 2019
+spring-test-5.1.2.RELEASE-sources.jar>spring-milestones=
 spring-test-5.1.2.RELEASE.jar>spring-milestones=
 spring-test-5.1.2.RELEASE.pom>spring-milestones=

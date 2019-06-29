@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 21:00:32 GMT+08:00 2019
+hazelcast-3.7.2.jar>alimaven=
+hazelcast-3.7.2.pom>alimaven=
+hazelcast-3.7.2.jar>mirrorId=
+hazelcast-3.7.2.pom>mirrorId=
+hazelcast-3.7.2-sources.jar>alimaven=

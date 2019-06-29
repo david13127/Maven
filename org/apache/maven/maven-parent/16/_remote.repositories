@@ -1,4 +1,5 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:12:28 GMT+08:00 2018
-maven-parent-16.pom>alimaven=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jun 29 16:22:26 GMT+08:00 2019
+maven-parent-16.pom>mirrorId=
 maven-parent-16.pom>central=
+maven-parent-16.pom>alimaven=

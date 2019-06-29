@@ -1,4 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Dec 28 22:19:54 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:29:52 GMT+08:00 2019
+mysql-connector-java-8.0.13.jar>alimaven=
+mysql-connector-java-8.0.13.pom>alimaven=
 mysql-connector-java-8.0.13.jar>central=
+mysql-connector-java-8.0.13.jar>mirrorId=
 mysql-connector-java-8.0.13.pom>central=
+mysql-connector-java-8.0.13.pom>mirrorId=
+mysql-connector-java-8.0.13-sources.jar>alimaven=

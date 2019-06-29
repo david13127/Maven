@@ -1,4 +1,8 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Jan 06 12:13:23 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 21:00:48 GMT+08:00 2019
+xpp3_min-1.1.4c.jar>alimaven=
+xpp3_min-1.1.4c.pom>alimaven=
+xpp3_min-1.1.4c.jar>mirrorId=
 xpp3_min-1.1.4c.jar>central=
+xpp3_min-1.1.4c.pom>mirrorId=
 xpp3_min-1.1.4c.pom>central=

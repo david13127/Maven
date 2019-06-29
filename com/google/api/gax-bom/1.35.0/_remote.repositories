@@ -1,4 +1,5 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 10:58:46 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:25:04 GMT+08:00 2019
 gax-bom-1.35.0.pom>central=
 gax-bom-1.35.0.pom>alimaven=
+gax-bom-1.35.0.pom>mirrorId=

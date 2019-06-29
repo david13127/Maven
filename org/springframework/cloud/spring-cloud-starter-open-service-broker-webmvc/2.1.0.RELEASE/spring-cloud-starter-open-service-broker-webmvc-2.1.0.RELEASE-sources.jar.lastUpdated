@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:32:38 GMT+08:00 2019
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/snapshot/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1546768159376
+http\://central.maven.org/maven2/.error=
+https\://repo.spring.io/snapshot/.lastUpdated=1546768159079
+http\://central.maven.org/maven2/.lastUpdated=1546770758716
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1546768160282

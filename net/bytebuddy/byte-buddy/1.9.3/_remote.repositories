@@ -1,6 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:39 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:32:31 GMT+08:00 2019
 byte-buddy-1.9.3.jar>alimaven=
+byte-buddy-1.9.3.jar>mirrorId=
 byte-buddy-1.9.3.pom>alimaven=
+byte-buddy-1.9.3.pom>mirrorId=
+byte-buddy-1.9.3-sources.jar>alimaven=
 byte-buddy-1.9.3.jar>central=
 byte-buddy-1.9.3.pom>central=

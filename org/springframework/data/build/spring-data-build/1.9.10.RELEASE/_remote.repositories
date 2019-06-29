@@ -1,3 +1,5 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Aug 10 21:28:50 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:50:40 GMT+08:00 2019
+spring-data-build-1.9.10.RELEASE.pom>alimaven=
+spring-data-build-1.9.10.RELEASE.pom>mirrorId=
 spring-data-build-1.9.10.RELEASE.pom>spring-milestones=

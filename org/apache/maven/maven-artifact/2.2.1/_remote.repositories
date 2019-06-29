@@ -1,5 +1,7 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:12:42 GMT+08:00 2018
-maven-artifact-2.2.1.pom>central=
-maven-artifact-2.2.1.jar>alimaven=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Jun 29 16:22:28 GMT+08:00 2019
 maven-artifact-2.2.1.pom>alimaven=
+maven-artifact-2.2.1.jar>alimaven=
+maven-artifact-2.2.1.pom>mirrorId=
+maven-artifact-2.2.1.pom>central=
+maven-artifact-2.2.1.jar>mirrorId=

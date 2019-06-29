@@ -1,4 +1,8 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Jan 06 12:12:21 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 20:59:40 GMT+08:00 2019
+commons-logging-api-1.1.jar>alimaven=
+commons-logging-api-1.1.pom>alimaven=
+commons-logging-api-1.1.jar>mirrorId=
+commons-logging-api-1.1.pom>mirrorId=
 commons-logging-api-1.1.jar>central=
 commons-logging-api-1.1.pom>central=

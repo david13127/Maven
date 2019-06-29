@@ -1,4 +1,8 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Jan 06 13:48:47 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:50:48 GMT+08:00 2019
+plexus-archiver-3.4.jar>alimaven=
+plexus-archiver-3.4.jar>mirrorId=
 plexus-archiver-3.4.jar>central=
+plexus-archiver-3.4.pom>alimaven=
+plexus-archiver-3.4.pom>mirrorId=
 plexus-archiver-3.4.pom>central=

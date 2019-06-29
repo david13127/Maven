@@ -1,6 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:41 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:29:48 GMT+08:00 2019
 hibernate-validator-6.0.13.Final.jar>alimaven=
 hibernate-validator-6.0.13.Final.pom>alimaven=
 hibernate-validator-6.0.13.Final.jar>central=
+hibernate-validator-6.0.13.Final.jar>mirrorId=
 hibernate-validator-6.0.13.Final.pom>central=
+hibernate-validator-6.0.13.Final.pom>mirrorId=
+hibernate-validator-6.0.13.Final-sources.jar>alimaven=

@@ -1,6 +1,8 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 11:00:40 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:32:31 GMT+08:00 2019
 asm-1.5.3.jar>alimaven=
 asm-1.5.3.pom>alimaven=
 asm-1.5.3.jar>central=
+asm-1.5.3.jar>mirrorId=
 asm-1.5.3.pom>central=
+asm-1.5.3.pom>mirrorId=

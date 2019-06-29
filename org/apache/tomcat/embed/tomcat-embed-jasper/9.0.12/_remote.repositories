@@ -1,4 +1,7 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Fri Dec 28 22:13:20 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 14:45:29 GMT+08:00 2019
+tomcat-embed-jasper-9.0.12-sources.jar>alimaven=
+tomcat-embed-jasper-9.0.12.jar>alimaven=
+tomcat-embed-jasper-9.0.12.pom>alimaven=
 tomcat-embed-jasper-9.0.12.jar>central=
 tomcat-embed-jasper-9.0.12.pom>central=

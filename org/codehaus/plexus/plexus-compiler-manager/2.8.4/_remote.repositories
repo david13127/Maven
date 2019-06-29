@@ -1,6 +1,8 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 10:59:13 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jan 06 18:26:12 GMT+08:00 2019
 plexus-compiler-manager-2.8.4.jar>alimaven=
 plexus-compiler-manager-2.8.4.pom>alimaven=
+plexus-compiler-manager-2.8.4.jar>mirrorId=
+plexus-compiler-manager-2.8.4.pom>mirrorId=
 plexus-compiler-manager-2.8.4.jar>central=
 plexus-compiler-manager-2.8.4.pom>central=
