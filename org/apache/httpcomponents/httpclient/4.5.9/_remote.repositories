@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Jun 29 16:20:44 GMT+08:00 2019
-httpclient-4.5.9.pom>mirrorId=
+#Sun Jun 30 19:55:37 GMT+08:00 2019
 httpclient-4.5.9.jar>mirrorId=
+httpclient-4.5.9.pom>mirrorId=
+httpclient-4.5.9-sources.jar>mirrorId=

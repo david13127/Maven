@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Jun 29 16:20:43 GMT+08:00 2019
-spring-test-5.1.8.RELEASE.pom>mirrorId=
+#Sun Jun 30 19:47:27 GMT+08:00 2019
+spring-test-5.1.8.RELEASE-sources.jar>spring-milestones=
 spring-test-5.1.8.RELEASE.jar>mirrorId=
+spring-test-5.1.8.RELEASE.pom>mirrorId=

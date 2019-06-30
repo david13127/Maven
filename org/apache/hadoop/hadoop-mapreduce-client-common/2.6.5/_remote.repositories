@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Jun 29 16:20:43 GMT+08:00 2019
+#Sun Jun 30 19:52:47 GMT+08:00 2019
 hadoop-mapreduce-client-common-2.6.5.jar>mirrorId=
 hadoop-mapreduce-client-common-2.6.5.pom>mirrorId=
+hadoop-mapreduce-client-common-2.6.5-sources.jar>mirrorId=

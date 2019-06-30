@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Jun 29 16:20:43 GMT+08:00 2019
+#Sun Jun 30 19:46:59 GMT+08:00 2019
 mysql-connector-java-8.0.16.jar>mirrorId=
 mysql-connector-java-8.0.16.pom>mirrorId=
+mysql-connector-java-8.0.16-sources.jar>mirrorId=

@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Jun 29 16:20:43 GMT+08:00 2019
-jackson-xc-1.8.3.pom>mirrorId=
+#Sun Jun 30 19:49:50 GMT+08:00 2019
 jackson-xc-1.8.3.jar>mirrorId=
+jackson-xc-1.8.3-sources.jar>mirrorId=
+jackson-xc-1.8.3.pom>mirrorId=

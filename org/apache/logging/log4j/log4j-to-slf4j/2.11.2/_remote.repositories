@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Jun 29 16:20:42 GMT+08:00 2019
-log4j-to-slf4j-2.11.2.jar>mirrorId=
+#Sun Jun 30 19:44:58 GMT+08:00 2019
 log4j-to-slf4j-2.11.2.pom>mirrorId=
+log4j-to-slf4j-2.11.2-sources.jar>mirrorId=
+log4j-to-slf4j-2.11.2.jar>mirrorId=

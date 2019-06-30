@@ -1,5 +1,6 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 10:58:53 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 30 19:40:39 GMT+08:00 2019
 spring-data-releasetrain-Lovelace-SR2.pom>central=
 spring-data-releasetrain-Lovelace-SR2.pom>alimaven=
+spring-data-releasetrain-Lovelace-SR2.pom>mirrorId=
 spring-data-releasetrain-Lovelace-SR2.pom>spring-milestones=

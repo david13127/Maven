@@ -1,5 +1,6 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Jun 29 16:20:43 GMT+08:00 2019
-commons-beanutils-1.7.0.pom>central=
+#Sun Jun 30 19:51:13 GMT+08:00 2019
 commons-beanutils-1.7.0.jar>mirrorId=
+commons-beanutils-1.7.0.pom>central=
 commons-beanutils-1.7.0.pom>mirrorId=
+commons-beanutils-1.7.0-sources.jar>mirrorId=

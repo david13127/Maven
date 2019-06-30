@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Jun 29 16:20:44 GMT+08:00 2019
+#Sun Jun 30 19:56:12 GMT+08:00 2019
 curator-framework-2.6.0.jar>mirrorId=
 curator-framework-2.6.0.pom>mirrorId=
+curator-framework-2.6.0-sources.jar>mirrorId=

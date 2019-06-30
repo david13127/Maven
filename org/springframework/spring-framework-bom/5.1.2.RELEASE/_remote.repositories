@@ -1,5 +1,6 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Dec 31 10:58:53 GMT+08:00 2018
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 30 19:40:38 GMT+08:00 2019
 spring-framework-bom-5.1.2.RELEASE.pom>central=
 spring-framework-bom-5.1.2.RELEASE.pom>spring-milestones=
 spring-framework-bom-5.1.2.RELEASE.pom>alimaven=
+spring-framework-bom-5.1.2.RELEASE.pom>mirrorId=
