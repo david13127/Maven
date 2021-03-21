@@ -1,7 +1,9 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Jan 06 18:29:46 GMT+08:00 2019
+#Sun Jun 14 12:14:47 CST 2020
+hppc-0.7.1.pom>mirrorId=
+hppc-0.7.1.pom>alimaven=
 hppc-0.7.1-sources.jar>alimaven=
+hppc-0.7.1.jar>central=
+hppc-0.7.1.pom>central=
 hppc-0.7.1.jar>alimaven=
 hppc-0.7.1.jar>mirrorId=
-hppc-0.7.1.pom>alimaven=
-hppc-0.7.1.pom>mirrorId=

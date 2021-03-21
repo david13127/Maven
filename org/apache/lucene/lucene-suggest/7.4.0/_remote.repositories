@@ -1,8 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sun May 12 09:51:15 CST 2019
-lucene-suggest-7.4.0-sources.jar>alimaven=
-lucene-suggest-7.4.0.jar>mirrorId=
-lucene-suggest-7.4.0.pom>mirrorId=
-lucene-suggest-7.4.0.pom>central=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 14 12:14:47 CST 2020
 lucene-suggest-7.4.0.jar>alimaven=
+lucene-suggest-7.4.0.pom>central=
+lucene-suggest-7.4.0.jar>mirrorId=
+lucene-suggest-7.4.0.jar>central=
+lucene-suggest-7.4.0-sources.jar>alimaven=
+lucene-suggest-7.4.0.pom>mirrorId=
 lucene-suggest-7.4.0.pom>alimaven=

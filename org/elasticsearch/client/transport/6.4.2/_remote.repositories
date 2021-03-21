@@ -1,8 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sun May 12 09:43:50 CST 2019
-transport-6.4.2-sources.jar>alimaven=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 14 12:14:47 CST 2020
 transport-6.4.2.jar>alimaven=
-transport-6.4.2.pom>alimaven=
-transport-6.4.2.jar>mirrorId=
 transport-6.4.2.pom>central=
+transport-6.4.2.jar>mirrorId=
+transport-6.4.2.jar>central=
+transport-6.4.2-sources.jar>alimaven=
+transport-6.4.2.pom>alimaven=
 transport-6.4.2.pom>mirrorId=

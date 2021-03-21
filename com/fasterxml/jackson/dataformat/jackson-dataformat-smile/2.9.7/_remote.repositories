@@ -1,8 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sun May 12 09:44:11 CST 2019
-jackson-dataformat-smile-2.9.7.pom>alimaven=
-jackson-dataformat-smile-2.9.7-sources.jar>alimaven=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 14 12:14:47 CST 2020
 jackson-dataformat-smile-2.9.7.jar>mirrorId=
-jackson-dataformat-smile-2.9.7.pom>mirrorId=
-jackson-dataformat-smile-2.9.7.pom>central=
+jackson-dataformat-smile-2.9.7-sources.jar>alimaven=
 jackson-dataformat-smile-2.9.7.jar>alimaven=
+jackson-dataformat-smile-2.9.7.pom>alimaven=
+jackson-dataformat-smile-2.9.7.pom>central=
+jackson-dataformat-smile-2.9.7.jar>central=
+jackson-dataformat-smile-2.9.7.pom>mirrorId=

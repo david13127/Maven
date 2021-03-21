@@ -1,7 +1,9 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Jan 06 18:32:31 GMT+08:00 2019
+#Sun Jun 14 12:14:47 CST 2020
+pdfbox-2.0.8.pom>central=
+pdfbox-2.0.8.pom>alimaven=
+pdfbox-2.0.8.jar>central=
 pdfbox-2.0.8.pom>mirrorId=
 pdfbox-2.0.8-sources.jar>alimaven=
-pdfbox-2.0.8.jar>alimaven=
-pdfbox-2.0.8.pom>alimaven=
 pdfbox-2.0.8.jar>mirrorId=
+pdfbox-2.0.8.jar>alimaven=

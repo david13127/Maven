@@ -1,7 +1,9 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Jan 06 18:32:32 GMT+08:00 2019
+#Sun Jun 14 12:14:47 CST 2020
+commons-collections4-4.2-sources.jar>alimaven=
 commons-collections4-4.2.pom>alimaven=
+commons-collections4-4.2.jar>central=
+commons-collections4-4.2.pom>central=
 commons-collections4-4.2.jar>mirrorId=
 commons-collections4-4.2.pom>mirrorId=
-commons-collections4-4.2-sources.jar>alimaven=
 commons-collections4-4.2.jar>alimaven=

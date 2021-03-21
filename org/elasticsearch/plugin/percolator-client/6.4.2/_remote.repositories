@@ -1,7 +1,9 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Jan 06 18:32:30 GMT+08:00 2019
-percolator-client-6.4.2.jar>mirrorId=
-percolator-client-6.4.2.pom>alimaven=
+#Sun Jun 14 12:14:47 CST 2020
 percolator-client-6.4.2.pom>mirrorId=
+percolator-client-6.4.2.pom>alimaven=
 percolator-client-6.4.2-sources.jar>alimaven=
+percolator-client-6.4.2.jar>central=
+percolator-client-6.4.2.pom>central=
+percolator-client-6.4.2.jar>mirrorId=
 percolator-client-6.4.2.jar>alimaven=

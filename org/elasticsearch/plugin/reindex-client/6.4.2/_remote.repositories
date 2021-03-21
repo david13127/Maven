@@ -1,7 +1,9 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Jan 06 18:32:30 GMT+08:00 2019
-reindex-client-6.4.2-sources.jar>alimaven=
-reindex-client-6.4.2.jar>alimaven=
+#Sun Jun 14 12:14:47 CST 2020
 reindex-client-6.4.2.jar>mirrorId=
-reindex-client-6.4.2.pom>alimaven=
 reindex-client-6.4.2.pom>mirrorId=
+reindex-client-6.4.2.pom>alimaven=
+reindex-client-6.4.2.jar>alimaven=
+reindex-client-6.4.2-sources.jar>alimaven=
+reindex-client-6.4.2.pom>central=
+reindex-client-6.4.2.jar>central=

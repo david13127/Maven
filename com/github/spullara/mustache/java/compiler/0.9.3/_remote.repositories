@@ -1,7 +1,9 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Jan 06 18:29:46 GMT+08:00 2019
-compiler-0.9.3.jar>mirrorId=
-compiler-0.9.3.pom>mirrorId=
-compiler-0.9.3-sources.jar>alimaven=
-compiler-0.9.3.jar>alimaven=
+#Sun Jun 14 12:14:47 CST 2020
 compiler-0.9.3.pom>alimaven=
+compiler-0.9.3.pom>central=
+compiler-0.9.3.pom>mirrorId=
+compiler-0.9.3.jar>central=
+compiler-0.9.3-sources.jar>alimaven=
+compiler-0.9.3.jar>mirrorId=
+compiler-0.9.3.jar>alimaven=

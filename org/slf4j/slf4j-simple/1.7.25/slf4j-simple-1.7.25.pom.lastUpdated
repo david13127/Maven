@@ -1,8 +1,9 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Jan 06 18:31:42 GMT+08:00 2019
-https\://github.com/psiegman/mvn-repo/raw/master/releases/.lastUpdated=1546254971491
+#Sun Jun 14 12:13:06 CST 2020
+https\://github.com/psiegman/mvn-repo/raw/master/releases/.lastUpdated=1592107985311
 https\://github.com/psiegman/mvn-repo/raw/master/releases/.error=
-https\://repo.spring.io/milestone/.error=
-https\://repo.spring.io/milestone/.lastUpdated=1546254970618
+https\://repo.maven.apache.org/maven2/.lastUpdated=1592107986039
 http\://central.maven.org/maven2/.lastUpdated=1546770702712
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1592107984329
 http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1546254971913

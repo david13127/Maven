@@ -1,8 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sun May 12 09:43:59 CST 2019
-elasticsearch-secure-sm-6.4.2.pom>central=
-elasticsearch-secure-sm-6.4.2.jar>alimaven=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 14 12:14:47 CST 2020
 elasticsearch-secure-sm-6.4.2.pom>alimaven=
+elasticsearch-secure-sm-6.4.2.jar>alimaven=
+elasticsearch-secure-sm-6.4.2-sources.jar>alimaven=
 elasticsearch-secure-sm-6.4.2.jar>mirrorId=
 elasticsearch-secure-sm-6.4.2.pom>mirrorId=
-elasticsearch-secure-sm-6.4.2-sources.jar>alimaven=
+elasticsearch-secure-sm-6.4.2.jar>central=
+elasticsearch-secure-sm-6.4.2.pom>central=

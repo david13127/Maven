@@ -1,8 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sun May 12 09:51:18 CST 2019
-elasticsearch-cli-6.4.2.jar>mirrorId=
-elasticsearch-cli-6.4.2.pom>mirrorId=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 14 12:14:47 CST 2020
 elasticsearch-cli-6.4.2-sources.jar>alimaven=
 elasticsearch-cli-6.4.2.jar>alimaven=
+elasticsearch-cli-6.4.2.jar>mirrorId=
+elasticsearch-cli-6.4.2.jar>central=
 elasticsearch-cli-6.4.2.pom>central=
 elasticsearch-cli-6.4.2.pom>alimaven=
+elasticsearch-cli-6.4.2.pom>mirrorId=

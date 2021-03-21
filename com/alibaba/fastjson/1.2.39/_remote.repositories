@@ -1,7 +1,9 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Jan 06 18:32:30 GMT+08:00 2019
-fastjson-1.2.39.jar>alimaven=
-fastjson-1.2.39.pom>alimaven=
+#Sun Jun 14 12:14:47 CST 2020
 fastjson-1.2.39.jar>mirrorId=
-fastjson-1.2.39.pom>mirrorId=
 fastjson-1.2.39-sources.jar>alimaven=
+fastjson-1.2.39.jar>central=
+fastjson-1.2.39.pom>alimaven=
+fastjson-1.2.39.pom>central=
+fastjson-1.2.39.jar>alimaven=
+fastjson-1.2.39.pom>mirrorId=

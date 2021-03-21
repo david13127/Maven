@@ -1,7 +1,9 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Jan 06 18:32:29 GMT+08:00 2019
-netty-codec-http-4.1.29.Final.jar>alimaven=
+#Sun Jun 14 12:14:47 CST 2020
+netty-codec-http-4.1.29.Final.jar>central=
 netty-codec-http-4.1.29.Final.pom>alimaven=
-netty-codec-http-4.1.29.Final.jar>mirrorId=
 netty-codec-http-4.1.29.Final.pom>mirrorId=
+netty-codec-http-4.1.29.Final.pom>central=
 netty-codec-http-4.1.29.Final-sources.jar>alimaven=
+netty-codec-http-4.1.29.Final.jar>alimaven=
+netty-codec-http-4.1.29.Final.jar>mirrorId=

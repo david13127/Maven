@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Jan 06 18:27:36 GMT+08:00 2019
-all-1.2.0.pom>mirrorId=
+#Sun Jun 14 12:12:40 CST 2020
 all-1.2.0.pom>alimaven=
+all-1.2.0.pom>central=
+all-1.2.0.pom>mirrorId=

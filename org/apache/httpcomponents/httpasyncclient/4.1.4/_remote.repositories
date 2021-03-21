@@ -1,7 +1,9 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Jan 06 18:29:46 GMT+08:00 2019
-httpasyncclient-4.1.4.jar>alimaven=
-httpasyncclient-4.1.4-sources.jar>alimaven=
+#Sun Jun 14 12:14:47 CST 2020
 httpasyncclient-4.1.4.pom>alimaven=
+httpasyncclient-4.1.4-sources.jar>alimaven=
+httpasyncclient-4.1.4.pom>central=
 httpasyncclient-4.1.4.jar>mirrorId=
 httpasyncclient-4.1.4.pom>mirrorId=
+httpasyncclient-4.1.4.jar>central=
+httpasyncclient-4.1.4.jar>alimaven=

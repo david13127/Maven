@@ -1,8 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sun May 12 09:43:48 CST 2019
-joda-time-2.10.1.jar>alimaven=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 14 12:14:47 CST 2020
 joda-time-2.10.1.pom>alimaven=
-joda-time-2.10.1.jar>mirrorId=
 joda-time-2.10.1.pom>mirrorId=
-joda-time-2.10.1-sources.jar>alimaven=
 joda-time-2.10.1.pom>central=
+joda-time-2.10.1.jar>alimaven=
+joda-time-2.10.1.jar>mirrorId=
+joda-time-2.10.1-sources.jar>alimaven=
+joda-time-2.10.1.jar>central=

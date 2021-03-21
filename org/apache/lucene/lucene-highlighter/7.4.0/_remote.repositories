@@ -1,8 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sun May 12 09:50:26 CST 2019
-lucene-highlighter-7.4.0.pom>central=
-lucene-highlighter-7.4.0.jar>alimaven=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 14 12:14:47 CST 2020
+lucene-highlighter-7.4.0.jar>central=
 lucene-highlighter-7.4.0.pom>alimaven=
-lucene-highlighter-7.4.0.jar>mirrorId=
+lucene-highlighter-7.4.0.pom>central=
 lucene-highlighter-7.4.0.pom>mirrorId=
+lucene-highlighter-7.4.0.jar>alimaven=
 lucene-highlighter-7.4.0-sources.jar>alimaven=
+lucene-highlighter-7.4.0.jar>mirrorId=

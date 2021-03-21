@@ -1,7 +1,9 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Jan 06 18:29:53 GMT+08:00 2019
+#Sun Jun 14 12:14:47 CST 2020
+commons-compress-1.18.jar>central=
+commons-compress-1.18.pom>alimaven=
+commons-compress-1.18.pom>mirrorId=
+commons-compress-1.18-sources.jar>alimaven=
+commons-compress-1.18.pom>central=
 commons-compress-1.18.jar>alimaven=
 commons-compress-1.18.jar>mirrorId=
-commons-compress-1.18.pom>alimaven=
-commons-compress-1.18-sources.jar>alimaven=
-commons-compress-1.18.pom>mirrorId=

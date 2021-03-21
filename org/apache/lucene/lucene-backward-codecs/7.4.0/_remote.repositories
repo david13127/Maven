@@ -1,8 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sun May 12 09:50:13 CST 2019
-lucene-backward-codecs-7.4.0.jar>alimaven=
-lucene-backward-codecs-7.4.0.pom>alimaven=
-lucene-backward-codecs-7.4.0.jar>mirrorId=
-lucene-backward-codecs-7.4.0.pom>central=
-lucene-backward-codecs-7.4.0-sources.jar>alimaven=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 14 12:14:47 CST 2020
 lucene-backward-codecs-7.4.0.pom>mirrorId=
+lucene-backward-codecs-7.4.0.jar>central=
+lucene-backward-codecs-7.4.0.jar>mirrorId=
+lucene-backward-codecs-7.4.0-sources.jar>alimaven=
+lucene-backward-codecs-7.4.0.pom>central=
+lucene-backward-codecs-7.4.0.pom>alimaven=
+lucene-backward-codecs-7.4.0.jar>alimaven=

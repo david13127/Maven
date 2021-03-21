@@ -1,8 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sun May 12 09:44:06 CST 2019
-elasticsearch-x-content-6.4.2.pom>central=
-elasticsearch-x-content-6.4.2.jar>alimaven=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 14 12:14:47 CST 2020
 elasticsearch-x-content-6.4.2.pom>alimaven=
+elasticsearch-x-content-6.4.2.pom>central=
+elasticsearch-x-content-6.4.2-sources.jar>alimaven=
 elasticsearch-x-content-6.4.2.jar>mirrorId=
 elasticsearch-x-content-6.4.2.pom>mirrorId=
-elasticsearch-x-content-6.4.2-sources.jar>alimaven=
+elasticsearch-x-content-6.4.2.jar>central=
+elasticsearch-x-content-6.4.2.jar>alimaven=

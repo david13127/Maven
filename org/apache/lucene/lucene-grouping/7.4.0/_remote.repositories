@@ -1,8 +1,9 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sun May 12 09:50:16 CST 2019
-lucene-grouping-7.4.0.pom>central=
-lucene-grouping-7.4.0.jar>alimaven=
-lucene-grouping-7.4.0-sources.jar>alimaven=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jun 14 12:14:47 CST 2020
 lucene-grouping-7.4.0.pom>alimaven=
-lucene-grouping-7.4.0.jar>mirrorId=
+lucene-grouping-7.4.0.jar>alimaven=
 lucene-grouping-7.4.0.pom>mirrorId=
+lucene-grouping-7.4.0.jar>central=
+lucene-grouping-7.4.0.jar>mirrorId=
+lucene-grouping-7.4.0.pom>central=
+lucene-grouping-7.4.0-sources.jar>alimaven=
